@@ -17,3 +17,10 @@ PXAHub と PXA Chain を開発しています。
 - **技術** — Go、TypeScript / React、ブロックチェーン基盤
 
 PXAHub は現在クローズドプレビュー中です。ソースコードは非公開で、公開情報はこのプロフィールでお知らせします。
+
+
+## コミュニティ・お問い合わせ
+
+- [PXAHub コミュニティ（Telegram）](https://t.me/+H9fara7w4ERjM2U1) — 開発や使い方についての交流、ご意見・不具合の報告はこちらへ。
+- [個別のお問い合わせ（Telegram）](https://t.me/tiling_pxa) — 個別のご相談や連携についてのお問い合わせはこちらへ。
+- [開発の近況（X）](https://x.com/tiling_pxa)
